@@ -35,3 +35,5 @@ class TestOpen(TestCase):
         result2 = 'Text for test 2.'
         self.assertEqual(result1, result2, msg='Oops!')
         logging.info('\n---------->. test_Open_write END.\n\n')
+
+    ...

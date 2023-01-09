@@ -4,6 +4,7 @@ import logging
 
 from ..task_1.task_1 import Open
 
+
 class TestOpen(TestCase):
     def setUp(self) -> None:
         while True:
